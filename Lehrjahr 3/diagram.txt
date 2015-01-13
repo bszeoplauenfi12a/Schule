@@ -1,0 +1,15 @@
+There are different possibilities to provide a big amount of data in a visual way. 
+I would like to explain how a pie-diagram is constructed on the following example. 
+The pie-diagram consists of a big circle, divided in different colors and a key where you can see the data.
+
+This pie diagmram displays the spreading of operating systems, was published in March this year.
+As you can see this graphics contain 4 colors that mean there are 4 different data sets which should be presented.
+The different operating systems are marked as following, dark grey for Windows, bright grey for Macintosh,
+purple for Linux and the very small white area for several other systems.
+The chart shows that Windows is used for more than 90%, exactly 90,81%, of all systems distributed all over the world. 
+The second one, rated on the count of systems, is Macintosh with 7,24%. That is normally installed on the 
+Apple products. There is also a purple part of the circle which stands for Linux. It has a percentage about 1,61%.
+To make the amount full to 100%, there is a remain of 0,34%. This are all other different operating systems.
+
+As you can see at the graphic, the source of the diagram is web-stats.info. This is a service which provied
+several diagrams, charts and graphics out of the IT business with actual data.

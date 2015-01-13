@@ -1,0 +1,75 @@
+Laminat-Fußbodenelement
+	-harter Fußbodenbelag mit Oberschicht
+	-besteht aus mehreren dünnen Fasermaterial
+	-HPL L.FE. -> deko. Hochdruck Schichtpreß
+	-CPL L.FE. -> deko. kontinuierlich gepreßt
+	-DPL L.FE. -> direkt auf Trägerwerkstoff gepreßt
+L.Fe. aus Holz
+	-überwiegend Holzwerkstoff als Träger
+	-schwimmende Verlegung weil das Holz arbeitet
+	-arbeiten = Quell- & Schwindevorgänge
+	-durch von oben/unten wirkende Wärme/Kräfte beeinflusst
+Feuchtegehalt
+	-65% / 20°C
+	-MDF 6!2
+	-HDF 5!2
+	-Holzfeinspanplatten 6!2
+	-Spanplatten 9!2
+	-Feuchtegehalt kann schwanken
+Produkthinweise
+	-Laminat mit Holzträger für Feuchträume nicht geeignet
+	-Verleimung keine absolute Abdichtung
+	-Oberfläche nicht nass behandeln
+Lagerung & Transport
+	-Rippenpappe schützt Kanten, Folie eingeschweißt
+	-Lagerung in beheizten, zugluftfreie, trockener Raum
+		-Lufttemp. >18°C & Luftfeucht. <75%
+Vor der Verlegung
+	-Untergrund muss ausgerichten werden
+	-für schwimmende Verlegung
+		-alle Estricharten
+		-Holzspanplatten
+		-Trockenbauplatten
+		-Holzdielen
+		-Hartbeläge
+	-Oberflächenfestigkeit muss geprüft werden
+	-Risse & Ausbrüche mussen ausgeglichen werden
+	-grenzwerte für Feuchtegehalt
+		-Zementestrich <2,0 CM-%
+		-Anhydrit <0,5 CM-%
+	-Abschottung vor aufsteigender Feuchte
+	-min. 0,2mm PE-Folie, Bahnen müssen 20-30cm überlappen
+Untergrund aus Holzspan/Holzfaser
+	-auf richtige Entlüftung achten
+	-Holzuntergründe dürfen nicht luftdicht verschlossen werden
+		-Hinterlüftung an den Wand-/Randsockel einbauen
+		-keine PE-Folie verwenden
+Alte Nutzbeläge
+	-min. 0,2mm PE-Folie, Bahnen müssen 20-30cm überlappen
+	-an der Wand hochlappen
+	-bei Kunststoffbelägen nicht notwendig
+Heizestrich
+	-Aufheizdaten mit Vorlauftemp.
+	-max. Vorlauftemp.
+	-Betriebszustand & Außentemp.
+	-raumklima. Beding.
+		-Fußbodenoberflächentemp.	>15°C
+		-Lufttemp. >18°C
+		-relative Luftfeucht. <75%
+Verlegung
+	-Untergrund -> PE-Folie,Dämmunterlagbahnen
+	-über 48h im Raum temperieren
+	-Verlegerichtung
+		-in Abhängigkeit Lichteinfall/Hauptblickrichtung
+	-Randfugen
+		-min. 8mm
+Bewegungsfugenprofile
+	-wenn Länge >12m
+	-wenn Breite >8m
+	-Bereich von Tür-/Raumdurchgängen, abgewinkelte, Räume
+Nut-/Federverleimung
+	-nach Herstellerangaben
+	-Kleber darf nicht aus Fugen quillen
+Nach der Verlegung
+	-12h nach Verlegung keine Belastung
+	-Befestigung der Sockelleiste an der Wand
